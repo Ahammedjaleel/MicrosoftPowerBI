@@ -1,6 +1,6 @@
 # MicrosoftPowerBI
 
-Please find below link for sample microsoft powerbi <br>
+Please find below link for sample microsoft powerbi  Dash board and Chart<br>
 
 
 
