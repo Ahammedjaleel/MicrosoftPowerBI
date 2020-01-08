@@ -1,4 +1,13 @@
 # MicrosoftPowerBI
 MicrosoftPowerBI
-Please find below link for sample microsoft powerbi
+Please find below link for sample microsoft powerbi <br>
+
+
+
 https://app.powerbi.com/view?r=eyJrIjoiNTUzYzk4NWMtMjc2Yy00NmUzLTk1NDEtYmNkZDk4NDVhNTZiIiwidCI6Ijg4OWI3MzU0LTlkNjYtNGYzMS1iYzk4LWM1YzE5OTMxOTcwNSJ9
+
+https://app.powerbi.com/view?r=eyJrIjoiOTkwOWFhMjktNjFlYy00MDYxLTg4OGYtM2ZkZjdmMzY5MzdiIiwidCI6Ijg4OWI3MzU0LTlkNjYtNGYzMS1iYzk4LWM1YzE5OTMxOTcwNSJ9
+
+https://app.powerbi.com/view?r=eyJrIjoiZmE3YTY2ZjgtNzcwZi00YWU2LTk3NGMtNDU0ZTdmODlmOTU4IiwidCI6Ijg4OWI3MzU0LTlkNjYtNGYzMS1iYzk4LWM1YzE5OTMxOTcwNSJ9
+
+https://app.powerbi.com/view?r=eyJrIjoiZmE3YTY2ZjgtNzcwZi00YWU2LTk3NGMtNDU0ZTdmODlmOTU4IiwidCI6Ijg4OWI3MzU0LTlkNjYtNGYzMS1iYzk4LWM1YzE5OTMxOTcwNSJ9
